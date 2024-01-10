@@ -1,21 +1,19 @@
-package MergeSortExample.model;
+package QuickSortExample.model;
 
 import java.io.Serializable;
 import java.util.Date;
 
-public class Employee implements Serializable {
-
+public class Human implements Serializable {
     private long id;
     private String name;
     private String lastname;
     private int age;
     private Date registerDate;
 
-    public Employee() {
-
+    public Human() {
     }
 
-    public Employee(long id, String name, String lastname, int age, Date registerDate) {
+    public Human(long id, String name, String lastname, int age, Date registerDate) {
         this.id = id;
         this.name = name;
         this.lastname = lastname;
@@ -62,6 +60,5 @@ public class Employee implements Serializable {
     public void setRegisterDate(Date registerDate) {
         this.registerDate = registerDate;
     }
-
 
 }

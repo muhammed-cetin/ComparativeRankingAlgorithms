@@ -17,7 +17,7 @@ public class Main {
         employeeList = DefineValues.defineValues(employeeList);
 
         System.out.println("---------------------------------");
-        System.out.println("BEFORE MERGE SORT sortById");
+        System.out.println("BEFORE MERGE SORT");
         ShowProcess.showValues(employeeList);
 
         System.out.println("AFTER MERGE SORT sortById");
