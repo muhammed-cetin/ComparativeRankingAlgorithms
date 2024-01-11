@@ -29,7 +29,7 @@ Program ilk olarak çalışanın özniteliklerini içeren bazı değerleri nesne
     - `MergeSort.java`
 
 
-## File Description
+## Dosya Açıklaması
 
 | Dosya Adları                | Bilgi                                                   |
 |-----------------------------|---------------------------------------------------------|
